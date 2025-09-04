@@ -12,11 +12,7 @@ kanban-plugin: board
 ## per-Minggu(1-5)
 
 - [ ] 🎓[3] Bab 1 , membaca 5 referensi dan printout
-- [ ] 📗[3] Kompleksitas tugas
-- [ ] 📗[3] Tugas game exploring
-- [ ] ⚠️[4] BEKUP Project plan
 - [ ] ⚠️[7] Hackative last doing
-- [ ] ⚒️[7] BEKUP : ILTSS 4
 
 
 ## per-MingguDepan(8-12)
@@ -29,6 +25,10 @@ kanban-plugin: board
 - [x] ⚒️Submission 3 Hackative
 - [x] 📷Post instagram hackative
 - [x] 📗Dicoding daily
+- [x] 📗[3] Kompleksitas tugas
+- [x] 📗[3] Tugas game exploring
+- [x] ⚠️[4] BEKUP Project plan
+- [x] ⚒️[7] BEKUP : ILTSS 4
 
 
 
